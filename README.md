@@ -12,7 +12,7 @@
 * Searchable item list
 * The item list can be displayed by ID or by description. Items are searched automatically for a complete or partial match whenever the user enters text or scans a barcode.
 * Data import and data export
-* Data import and data export from/to CSV files (e.g. created with Microsoft Excel), XML files and Google Drive spreadsheets is supported.
+* Data import and data export from/to CSV files (e.g. created with Microsoft Excel), XML files and Google Drive spreadsheets is in to do list .
 * Built-in camera barcode scanner
 * The built-in camera barcode scanner reliably decodes most linear and 2D codes.
 * Bluetooth barcode scanner support
