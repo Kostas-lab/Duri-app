@@ -2,7 +2,11 @@
   <img src="https://raw.githubusercontent.com/Kostas-lab/Duri-app/master/my_logo.png">
 </p>
 
-# Duri Inventory App - Features
+# "Duri Inventory App - Features"
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kostas-lab/Duri-app/master/Duri-Inventory-Management-Tab.jpg" width="850">
+</p>
 
 ## Simple and fast design
 
