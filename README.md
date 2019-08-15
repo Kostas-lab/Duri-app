@@ -1,8 +1,10 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Kostas-lab/Duri-app/master/my_logo.png">
+  <img src="https://raw.githubusercontent.com/Kostas-lab/Duri-app/master/my_logo.png" width="100">
 </p>
 
-# "Duri Inventory App - Features"
+<p align="center">
+  <b>"Duri Inventory App - Features"</b><br>
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Kostas-lab/Duri-app/master/Duri-Inventory-Management-Tab.jpg" width="850">
