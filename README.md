@@ -25,3 +25,11 @@
 * Barcodes can be scanned with the integrated camera scanner or with industry-grade external Bluetooth barcode scanners (Bluetooth SPP required) . External scanners are recommended for a better scanning experience and improved efficiency.
 * Optimized for smart phones and tablets
 * On tablets the app displays the relevant data (item list view and item detail view) on a single screen. On smart phones these views are separated.
+
+## Phone screenshot
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kostas-lab/Duri-app/master/Screenshot_20190818.jpg" width="250">
+  <img src="https://raw.githubusercontent.com/Kostas-lab/Duri-app/master/Screenshot_201908182.jpg" width="250">
+  <img src="https://raw.githubusercontent.com/Kostas-lab/Duri-app/master/Screenshot_201908183.jpg" width="250">
+</p>
